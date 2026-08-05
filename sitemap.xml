@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+        <loc>https://yicadjuric.com/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://yicadjuric.com/"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://yicadjuric.com/"/>
+        <xhtml:link rel="alternate" hreflang="sr" href="https://yicadjuric.com/"/>
+        <lastmod>2026-07-30</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://yicadjuric.com/assets/Yica-Djuric-hero-guernica.webp</image:loc>
+            <image:title>Yica Djuric Guernica-inspired large-scale painting</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://yicadjuric.com/assets/Yica-Djuric-flower-face.webp</image:loc>
+            <image:title>Yica Djuric expressionist painting with flower face and blue patterns</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://yicadjuric.com/assets/Yica-Djuric-green-child.webp</image:loc>
+            <image:title>Yica Djuric neon green character painting</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://yicadjuric.com/assets/Yica-Djuric-piano-room.webp</image:loc>
+            <image:title>Yica Djuric interior scene with grand piano</image:title>
+        </image:image>
+        <image:image>
+            <image:loc>https://yicadjuric.com/assets/Yica-Djuric-watermelon-fiesta.webp</image:loc>
+            <image:title>Yica Djuric colorful painting with watermelon motifs</image:title>
+        </image:image>
+    </url>
+</urlset>
